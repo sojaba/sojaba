@@ -1,11 +1,10 @@
-
 @font-face {
     font-family: 'BMEuljiro10yearslater';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/BMEuljiro10yearslater.woff') format('woff');
+    font-display: swap;
     font-weight: normal;
     font-style: normal;
 }
-
 
 .top_banner {position:fixed;left:0;top:0;width:100%;z-index:10;height:82px;text-align:center;background-color:transparent}
 .top_banner img {max-width:500px;width:100%;margin:0 auto}
