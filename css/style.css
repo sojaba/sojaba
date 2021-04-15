@@ -23,7 +23,7 @@
 #footer .inner {display:flex;max-width:970px;width:100%;margin:0 auto;padding:20px 0;color:#fff;justify-content:flex-start;align-items:center}
 #footer .inner .logo {max-width:300px;width:100%;vertical-align:middle}
 #footer .inner .infox {padding-left:30px;vertical-align:middle;font-size:32px;font-family: 'Jua', sans-serif;}
-#footer .inner .info {padding-left:30px;vertical-align:middle;font-size:32px;}
+#footer .inner .info {padding-left:30px;vertical-align:middle;font-size:30px;}
 
 #footer .inner .info p:first-child {margin:0}
 #footer .inner .info p br {display:none}
