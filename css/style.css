@@ -6,6 +6,14 @@
     font-style: normal;
 }
 
+
+@font-face {
+    font-display: swap;
+	font-family: 'NanumSquare';
+	font-weight: 400;
+    src: url('https://cdn.rawgit.com/moonspam/NanumSquare/master/NanumSquareR.woff') format('woff');
+}
+
 .top_banner {position:fixed;left:0;top:0;width:100%;z-index:10;height:82px;text-align:center;background-color:transparent}
 .top_banner img {max-width:500px;width:100%;margin:0 auto}
 .keyvisual {display:flex;position:relative;height:calc(100vh - 147px);text-align:center;background:url(../images/bg2.jpg) no-repeat 50% 50% / cover;justify-content:center;align-items:center;flex-direction:column}
@@ -20,7 +28,7 @@
 #footer {height:147px;background-color:#461228}
 #footer .inner {display:flex;max-width:970px;width:100%;margin:0 auto;padding:20px 0;color:#fff;justify-content:flex-start;align-items:center}
 #footer .inner .logo {max-width:300px;width:100%;vertical-align:middle}
-#footer .inner .info {padding-left:30px;vertical-align:middle;font-size:30px;font-family: 'IBMPlexSansKR-Regular', sans-serif;}
+#footer .inner .info {padding-left:30px;vertical-align:middle;font-size:30px;font-family: 'NanumSquare', sans-serif;}
 
 
 #footer .inner .info p:first-child {margin:0}
