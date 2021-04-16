@@ -1,18 +1,5 @@
-@font-face {
-    font-family: 'IBMPlexSansKR-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
-    font-display: swap;
-    font-weight: normal;
-    font-style: normal;
-}
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
-
-@font-face {
-    font-display: swap;
-	font-family: 'NanumSquare';
-	font-weight: 400;
-    src: url('https://cdn.rawgit.com/moonspam/NanumSquare/master/NanumSquareR.woff') format('woff');
-}
 
 .top_banner {position:fixed;left:0;top:0;width:100%;z-index:10;height:82px;text-align:center;background-color:transparent}
 .top_banner img {max-width:500px;width:100%;margin:0 auto}
