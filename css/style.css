@@ -15,14 +15,14 @@
 #footer {height:147px;background-color:#461228}
 #footer .inner {display:flex;max-width:970px;width:100%;margin:0 auto;padding:20px 0;color:#fff;justify-content:flex-start;align-items:center}
 #footer .inner .logo {max-width:300px;width:100%;vertical-align:middle}
-#footer .inner .info {padding-left:30px;vertical-align:middle; text-align: center; font-size:28px;font-family: 'NanumSquare', sans-serif; font-weight: 800;}
+#footer .inner .info {padding-left:30px;vertical-align:middle; margin: 0px auto; text-align: center; font-size:28px;font-family: 'NanumSquare', sans-serif; font-weight: 800;}
 
 
 #footer .inner .info p:first-child {margin:0}
 #footer .inner .info p br {display:none}
 
 @media screen and (max-width:1200px) {
-	#footer .inner .info {font-size:28px; margin: 0px auto;}
+	#footer .inner .info {font-size:28px;}
 }
 
 @media screen and (max-width:1024px) {
